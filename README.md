@@ -1,4 +1,4 @@
-<img align="center" height="200" src="https://giphy.com/embed/bJ4TVNYNUympPgcpem"/>
+<img align="center" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2YwNjdia3lnOWR1dGE2aHptZnJ6NnQ0d2V6eDE3dHZjcjVpeWdjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif"/>
 
 ```diff
 hi, im ceabay 🔮.
