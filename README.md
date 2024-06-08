@@ -1,12 +1,14 @@
-<img align="center" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2YwNjdia3lnOWR1dGE2aHptZnJ6NnQ0d2V6eDE3dHZjcjVpeWdjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif"/>
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2YwNjdia3lnOWR1dGE2aHptZnJ6NnQ0d2V6eDE3dHZjcjVpeWdjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif"/>
 
 ```diff
-hi, im ceabay 🔮.
+- hi,
+@@Ceabay | Program Engineer & Web Developer@@
 
-@@advanced programming student.@@.
-- 5 years python experience
-! program engineer, web developer
-# 📖 reverse engineering, computer science
+@@Highly skilled program engineer and web developer with 5+ years of experience in Python programming.@@
+- Proficient in software development, reverse engineering, and computer science.
+! Proven ability to design, develop, and deploy efficient software solutions.
+! Strong understanding of computer science fundamentals and a passion for staying dated with industry trends.
+
 ```
 
 ```math
